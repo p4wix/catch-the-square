@@ -1,0 +1,12 @@
+Game 1;
+
+- Window
+- Game class
+- Game loop
+- Update and Rendering
+- Create shapes
+- Move shapes
+- Positions
+- Getting mouse postion
+- Getting keyboard inputs
+- Removing shapes
